@@ -10,6 +10,6 @@ public interface List<T>
     void print();
     void printReverse();
     void sort();
-	boolean isEmpty();
-	int getLength();
+    boolean isEmpty();
+    int getLength();
 }
